@@ -1,3 +1,4 @@
+[![Board Status](https://fenglui.visualstudio.com/41e4d1cf-db25-4ed7-8413-a4c0d049066d/11c4cbab-b1bf-43d8-b3e4-d4a988e7b827/_apis/work/boardbadge/f987a70b-e76b-489a-9ceb-e57cb5111d2c)](https://fenglui.visualstudio.com/41e4d1cf-db25-4ed7-8413-a4c0d049066d/_boards/board/t/11c4cbab-b1bf-43d8-b3e4-d4a988e7b827/Microsoft.RequirementCategory)
 [![Build status](https://asadsahi.visualstudio.com/_apis/public/build/definitions/a1519ab8-9104-47eb-96cc-6c37519c8b69/7/badge)](https://asadsahi.visualstudio.com/playground/_build/index?context=allDefinitions&path=%5C&definitionId=7&_a=completed)
 [![Join the chat at https://gitter.im/asadsahi-AspNetCoreSpa/Lobby](https://badges.gitter.im/asadsahi-AspNetCoreSpa/Lobby.svg)](https://gitter.im/asadsahi-AspNetCoreSpa/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
